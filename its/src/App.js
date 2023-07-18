@@ -1,6 +1,6 @@
 import React from "react";
 import Company from "./components/Company";
-import Intro from "./components/Intro";
+import Intro from "./components/";
 import Navbar from "./components/Navbar";
 import Standards from "./components/Standards";
 import Workhere from "./components/Workhere";
